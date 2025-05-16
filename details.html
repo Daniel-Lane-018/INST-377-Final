@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Detailed Weather Report</title>
@@ -31,7 +33,7 @@
     const API_KEY = 'ad8de53a653a7ba335531e5eaf5c9c67';
 
     async function fetchDetailedWeather(city) {
-        const url = `http://api.weatherstack.com/current?access_key=${API_KEY}&query=${encodeURIComponent(city)}&aqi=1`; // Add &aqi=1 if supported
+        const url = `https://api.weatherstack.com/current?access_key=${API_KEY}&query=${encodeURIComponent(city)}&aqi=1`; // Add &aqi=1 if supported
         const response = await fetch(url);
         const data = await response.json();
         return data;
