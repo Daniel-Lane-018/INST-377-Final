@@ -1,3 +1,3 @@
 # INST-377-Final
 
-Names: Daniel Lane,
+Names: Daniel Lane, Olivia Awumah
