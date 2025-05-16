@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
 
         //the weather for the specified city
         async function fetchWeather(city) {
-            const res = await fetch(`http://api.weatherstack.com/current?access_key=${API_KEY}&query=${city}`);
+            const res = await fetch(`https://api.weatherstack.com/current?access_key=${API_KEY}&query=${city}`);
             const data = await res.json();
             return data;
         }
