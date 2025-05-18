@@ -37,5 +37,9 @@ SUPABASE_URL=https://your-project.supabase.co
 
 open using chrome browser, html
 
+### Expected Problems
 
+1. Only 100 API Calls per month (have to resest API by making another account).
+2. API can make only one call per page. Make two calls on page if you need more than one set of info.
+3. Not all of the API's sevices are availible due to pay walls.
 
