@@ -31,3 +31,11 @@ The UI is responsive and designed using Flexbox and CSS Grid to ensure a smooth 
    git clone https://github.com/OliviaA281/weather-now.git
    cd weather-now
 
+   WEATHERSTACK_API_KEY_= "24fd9903a225cd5db64be0eeee30bf66"
+SUPABASE_URL=https://your-project.supabase.co
+
+
+open using chrome browser, html
+
+
+
