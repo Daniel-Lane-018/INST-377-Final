@@ -3,7 +3,7 @@
 Names: Daniel Lane, Olivia Awumah
 
 # Weather Now
-**Web Link: https://inst-377-final-9dkztz9hf-daniel-lanes-projects.vercel.app/**
+**Vercel Web Link: https://inst-377-final-9dkztz9hf-daniel-lanes-projects.vercel.app/**
 
 ## Overview
 
